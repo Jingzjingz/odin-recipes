@@ -1,1 +1,1 @@
-My first Website, will just use HTML now but it will be more complex in teh future. No giving up!
+My first Website, will just use HTML now but it will be more complex in the future. No giving up!
