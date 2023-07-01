@@ -1,0 +1,19 @@
+html {
+    box-sizing: border-box;
+  }
+  *,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+  }
+
+body {
+    font-family: "Courier New", "Helvetica", sans-serif;
+    background-color: honeydew;
+    color: black;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
