@@ -1,10 +1,5 @@
-html {
+  * {
     box-sizing: border-box;
-  }
-  *,
-  *::before,
-  *::after {
-    box-sizing: inherit;
   }
 
 body {
@@ -16,4 +11,11 @@ body {
 img {
     height: 400px;
     width: auto;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.description {
+    display: inline-block;
+    width: 70%;
 }

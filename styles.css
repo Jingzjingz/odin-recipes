@@ -1,11 +1,6 @@
-html {
-    box-sizing: border-box;
-  }
-  *,
-  *::before,
-  *::after {
-    box-sizing: inherit;
-  }
+* {
+  box-sizing: border-box;
+}
 
 body {
     font-family: "Courier New", "Helvetica", sans-serif;
@@ -28,3 +23,4 @@ div.food {
     border: 3px solid black;
     display: inline-block;
 }
+
